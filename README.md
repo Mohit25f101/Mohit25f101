@@ -22,10 +22,10 @@ TODO before using:
 
 <p align="center">
   <a href="https://github.com/Mohit25f101">
-    <img src="https://komarev.com/ghpvc/?username=Lucifer&style=flat-square&color=0f6fdd" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Mohit25f101&style=flat-square&color=0f6fdd" alt="Profile views" />
   </a>
-  <a href="https://github.com/Lucifer?tab=followers">
-    <img src="https://img.shields.io/github/followers/Lucifer?label=Followers&style=flat-square&color=0d8b5f" alt="GitHub followers" />
+  <a href="https://github.com/Mohit25f101?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mohit25f101?label=Followers&style=flat-square&color=0d8b5f" alt="GitHub followers" />
   </a>
 </p>
 
@@ -45,11 +45,9 @@ I like taking real-world problems (identity, finance, productivity) and turning 
 
 ### 🔭 Current Focus
 
-- 🪪 **UIDAI Data Hackathon**  
-  Designing a data‑driven prototype to tackle verification and identity challenges at scale.
+- 🪪 **UIDAI Data Hackathon** Designing a data‑driven prototype to tackle verification and identity challenges at scale.
 
-- 📚 **IITM Degree Coursework**  
-  Strengthening foundations in **Mathematics**, **Statistics**, and **Computational Thinking** to back my engineering work with solid theory.
+- 📚 **IITM Degree Coursework** Strengthening foundations in **Mathematics**, **Statistics**, and **Computational Thinking** to back my engineering work with solid theory.
 
 ---
 
@@ -84,14 +82,11 @@ I like taking real-world problems (identity, finance, productivity) and turning 
 
 ### 📂 Recent Builds
 
-- 🪪 **UIDAI Project (In Progress)**  
-  A prototype targeting **identity verification challenges**, using data‑driven logic and clean, modular Python design.
+- 🪪 **UIDAI Project (In Progress)** A prototype targeting **identity verification challenges**, using data‑driven logic and clean, modular Python design.
 
-- 📇 **Smart Contact Book (CLI)**  
-  A terminal‑based contact manager using **Python dictionaries** for fast lookup and simple CRUD workflows.
+- 📇 **Smart Contact Book (CLI)** A terminal‑based contact manager using **Python dictionaries** for fast lookup and simple CRUD workflows.
 
-- 💸 **Expense Tracker Script**  
-  A lightweight **personal finance tracker** using file handling, basic data structures, and clear reporting on spending patterns.
+- 💸 **Expense Tracker Script** A lightweight **personal finance tracker** using file handling, basic data structures, and clear reporting on spending patterns.
 
 ---
 
@@ -99,20 +94,7 @@ I like taking real-world problems (identity, finance, productivity) and turning 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Lucifer&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Lucifer&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Mohit25f101&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
   />
 </p>
@@ -129,8 +111,7 @@ When I'm not **coding** or **playing with crypto**, I’m learning to play the �
   <a href="mailto:25f1011180@ds.study.iitm.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/mohit-kumar-71060136b">
+  <a href="https://www.linkedin.com/in/mohit-kumar-71060136b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
