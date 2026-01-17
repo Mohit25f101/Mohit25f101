@@ -22,10 +22,10 @@ TODO before using:
 
 <p align="center">
   <a href="https://github.com/Mohit25f101">
-    <img src="https://komarev.com/ghpvc/?username=Mohit25f101&style=flat-square&color=0f6fdd" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Lucifer&style=flat-square&color=0f6fdd" alt="Profile views" />
   </a>
-  <a href="https://github.com/Mohit25f101?tab=followers">
-    <img src="https://img.shields.io/github/followers/Mohit25f101?label=Followers&style=flat-square&color=0d8b5f" alt="GitHub followers" />
+  <a href="https://github.com/Lucifer?tab=followers">
+    <img src="https://img.shields.io/github/followers/Lucifer?label=Followers&style=flat-square&color=0d8b5f" alt="GitHub followers" />
   </a>
 </p>
 
@@ -99,12 +99,12 @@ I like taking real-world problems (identity, finance, productivity) and turning 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohit25f101&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Lucifer&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub stats"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit25f101&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucifer&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top languages"
     height="165"
   />
@@ -112,7 +112,7 @@ I like taking real-world problems (identity, finance, productivity) and turning 
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Mohit25f101&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Lucifer&theme=tokyonight&hide_border=true"
     alt="GitHub streak"
   />
 </p>
