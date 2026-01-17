@@ -99,7 +99,7 @@ I like taking real-world problems (identity, finance, productivity) and turning 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mohit25f101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Mohit25f101&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub stats"
     height="165"
   />
@@ -116,15 +116,6 @@ I like taking real-world problems (identity, finance, productivity) and turning 
     alt="GitHub streak"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.comMohit25f101/github-profile-3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="3D contribution graph"
-  />
-</p>
-
----
 
 ### ⚡ Fun Fact
 
