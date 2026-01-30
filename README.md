@@ -101,7 +101,7 @@ I like taking real-world problems (identity, finance, productivity) and turning 
 
 ### ⚡ Fun Fact
 
-When I'm not **coding** or **playing with crypto**, I’m learning to play the 🎸 **guitar** and hunting for patterns there too.
+When I'm not **coding** or **playing with crypto**, I’m learning to play the 🎸 **guitar** and learning their patterns there too.
 
 ---
 
